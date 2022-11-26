@@ -3,7 +3,7 @@ class Programa
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Executando o projeto 7 - Condicionais");
+        Console.WriteLine("Executando o projeto 10 - Condicionais");
 
         int idadeJoao = 16;
         int quantidadePessoas = 2;
